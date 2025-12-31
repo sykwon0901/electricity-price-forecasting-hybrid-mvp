@@ -1,0 +1,4 @@
+Model,Active Volume,Δ vs Baseline (Active Volume),Active Total,Δ vs Baseline (Active Total),Full Volume,Δ vs Baseline (Full Volume),Full Total,Δ vs Baseline (Full Total),Source table
+1. Baseline (Persistence),1.3468316168395065,,0.509105692738138,,0.0893020866285659,,0.0431642098013632,,metrics_table_dl_hurdle_tcn_vs_baseline.csv
+2. DL Gated Transformer (Volume only),1.416501161349376,0.06966954450986962,0.5265230788656055,0.01741738612746746,0.0801557049362682,-0.0091463816922977,0.0408776143782888,-0.0022865954230743973,metrics_table_dl_hurdle_tcn_vs_baseline.csv
+2. ML Hurdle LGBM,1.42569989419123,0.07886827735172353,0.5288227620760689,0.019717069337930937,0.0743453702499984,-0.014956716378567492,0.0394250307067214,-0.0037391790946417966,metrics_table_ml_hurdle_lgbm_vs_baseline.csv
