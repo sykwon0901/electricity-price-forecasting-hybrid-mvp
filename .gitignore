@@ -1,0 +1,28 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+.env.*
+*.log
+
+results/models/
+results/logs/
+results/cache/
+results/window_index/
+*.pt
+*.ckpt
+
+archive/
+preliminary/
+desktop.ini
+Thumbs.db
+
+# Large local artifacts (do not push)
+data/*.parquet
+
+# Windows noise (if any)
+data/desktop.ini
+desktop.ini
+Thumbs.db
+# Local datasets (do not push)
+data/
+
