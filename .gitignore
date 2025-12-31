@@ -26,3 +26,12 @@ Thumbs.db
 # Local datasets (do not push)
 data/
 
+
+# Keep results/metrics but ignore json only
+results/metrics/*.json
+notebooks/__pycache__/
+
+
+# Ignore JSON artifacts under results root
+results/*.json
+
